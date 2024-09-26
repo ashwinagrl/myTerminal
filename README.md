@@ -1,5 +1,5 @@
 # myTerminal
-# The requirements to execute this terminal are :
+# The requirements to execute this myTerminal are :
 # -> A Linux Ubuntu machine.
 # -> GCC should be installed in the machine:
 # If GCC is not installed in your machine, do the following:
